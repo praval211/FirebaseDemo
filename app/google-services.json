@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183832530042",
+    "project_id": "fdbexample-cc911",
+    "storage_bucket": "fdbexample-cc911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183832530042:android:73966b7e6b20f7e03b7fc3",
+        "android_client_info": {
+          "package_name": "com.example.fdbexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183832530042-d13fa82ipcsmhvt8p14nmsb8et3fvn7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOd-eyXOS-UQMqkJphpPn12JSD8wYjZDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183832530042-d13fa82ipcsmhvt8p14nmsb8et3fvn7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
